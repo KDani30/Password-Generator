@@ -33,5 +33,5 @@ st.markdown("""
 - Incluye una combinación de letras mayúsculas, minúsculas, números y caracteres especiales.
 - Evita usar información personal o palabras comunes.
 """)
-st.markdown("**para la comprobacion de la seguridad de tu contraseña [Visita Kaspersky Password Checker](https://password.kaspersky.com/es/)**")
+st.markdown("**Para la comprobación de la seguridad de tu contraseña [Visita Kaspersky Password Checker](https://password.kaspersky.com/es/)**")
 
