@@ -24,7 +24,7 @@ usar_especiales = st.checkbox("Incluir caracteres especiales", value=True)
 if st.button("Generar Contraseña"):
     contraseña = generar_contraseña(longitud, usar_especiales)
     st.success("Contraseña generada:")
-    st.code(contraseña)
+    st.code(contraseña, None)
 
 # Información adicional sobre seguridad
 st.markdown("### Consejos para una contraseña segura:")
